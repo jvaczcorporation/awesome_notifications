@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
   s.name             = 'awesome_notifications'
-  s.version          = '0.8.1'
+  s.version          = '0.8.2'
   s.summary          = 'A complete solution to create Local and Push Notifications, through Firebase or another services, using Flutter.'
   s.description      = <<-DESC
 A complete solution to create Local Notifications and Push Notifications, through Firebase or another services, using Flutter.
                        DESC
-  s.homepage         = 'https://github.com/rafaelsetragni/awesome_notifications'
+  s.homepage         = 'https://github.com/jvaczcorporation/awesome_notifications'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Rafael Setragni' => 'rafaelsetra@gmail.com' }
   s.source           = { :path => '.' }
